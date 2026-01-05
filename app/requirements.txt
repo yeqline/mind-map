@@ -1,0 +1,5 @@
+# Mind-Map dependencies
+# Install with: uv pip install -r requirements.txt
+pyyaml>=6.0
+click>=8.0
+

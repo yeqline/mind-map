@@ -1,0 +1,26 @@
+[project]
+name = "mindmap"
+version = "0.1.0"
+description = "Convert markdown files to Excalidraw mind maps"
+readme = "README.md"
+requires-python = ">=3.11"
+dependencies = [
+    "pyyaml>=6.0",
+    "click>=8.0",
+]
+
+[project.scripts]
+mindmap = "mindmap.cli:main"
+
+[build-system]
+requires = ["hatchling"]
+build-backend = "hatchling.build"
+
+[tool.hatch.build.targets.wheel]
+include = ["*.py", "*.yaml"]
+
+[tool.uv]
+dev-dependencies = [
+    "pytest>=8.0",
+]
+

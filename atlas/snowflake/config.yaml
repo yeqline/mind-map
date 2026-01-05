@@ -1,0 +1,20 @@
+# Snowflake project config
+# This demonstrates granular property-level merging:
+# - Only override what you need
+# - Everything else comes from app/default_config.yaml
+
+tags:
+  snowflake:
+    color: "#29b5e8"
+  sql:
+    color: "#2196f3"
+  data-warehouse:
+    color: "#1565c0"
+
+# Override just the fill color for concept nodes
+# All other properties (stroke, stroke_width, font_family, etc.) 
+# will still come from default_config.yaml
+node_types:
+  concept:
+    fill: "#e8f4f8"  # Light blue tint for snowflake concepts
+
