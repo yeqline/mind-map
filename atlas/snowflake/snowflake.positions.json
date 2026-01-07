@@ -1,0 +1,302 @@
+{
+  "c-snowflake-moc": {
+    "x": 0.0,
+    "y": 7308.0,
+    "width": 250.0,
+    "height": 457.0
+  },
+  "c-snowflake-overview": {
+    "x": 0.0,
+    "y": 8804.0,
+    "width": 250.0,
+    "height": 557.0
+  },
+  "c-snowflake-architecture": {
+    "x": 0.0,
+    "y": 714.0,
+    "width": 250.0,
+    "height": 382.0
+  },
+  "c-snowflake-storage-compute-separation": {
+    "x": 370.0,
+    "y": 1071.0,
+    "width": 250.0,
+    "height": 257.0
+  },
+  "c-snowflake-cloud-services-layer": {
+    "x": 370.0,
+    "y": 357.0,
+    "width": 250.0,
+    "height": 257.0
+  },
+  "c-snowflake-virtual-warehouses": {
+    "x": 370.0,
+    "y": 1428.0,
+    "width": 250.0,
+    "height": 382.0
+  },
+  "c-snowflake-multi-cluster-warehouses": {
+    "x": 370.0,
+    "y": 714.0,
+    "width": 250.0,
+    "height": 257.0
+  },
+  "c-snowflake-caching": {
+    "x": 370.0,
+    "y": 0.0,
+    "width": 250.0,
+    "height": 257.0
+  },
+  "c-snowflake-data-organization": {
+    "x": 0.0,
+    "y": 4966.0,
+    "width": 250.0,
+    "height": 282.0
+  },
+  "c-snowflake-account-organization": {
+    "x": 370.0,
+    "y": 4177.0,
+    "width": 250.0,
+    "height": 307.0
+  },
+  "c-snowflake-db-schema-table": {
+    "x": 370.0,
+    "y": 4584.0,
+    "width": 250.0,
+    "height": 282.0
+  },
+  "c-snowflake-views-materialized-views": {
+    "x": 370.0,
+    "y": 5780.0,
+    "width": 250.0,
+    "height": 257.0
+  },
+  "c-snowflake-micro-partitions": {
+    "x": 370.0,
+    "y": 4966.0,
+    "width": 250.0,
+    "height": 357.0
+  },
+  "c-snowflake-stages-file-formats": {
+    "x": 370.0,
+    "y": 5423.0,
+    "width": 250.0,
+    "height": 257.0
+  },
+  "c-snowflake-ingestion": {
+    "x": 0.0,
+    "y": 6531.5,
+    "width": 250.0,
+    "height": 282.0
+  },
+  "c-snowflake-copy-into": {
+    "x": 370.0,
+    "y": 6237.0,
+    "width": 250.0,
+    "height": 207.0
+  },
+  "c-snowflake-snowpipe": {
+    "x": 370.0,
+    "y": 6876.0,
+    "width": 250.0,
+    "height": 232.0
+  },
+  "c-snowflake-external-tables": {
+    "x": 370.0,
+    "y": 6544.0,
+    "width": 250.0,
+    "height": 232.0
+  },
+  "c-snowflake-query-compute": {
+    "x": 0.0,
+    "y": 12222.5,
+    "width": 250.0,
+    "height": 257.0
+  },
+  "c-snowflake-warehouse-sizing-concurrency": {
+    "x": 370.0,
+    "y": 12592.0,
+    "width": 250.0,
+    "height": 257.0
+  },
+  "c-snowflake-query-profiling": {
+    "x": 370.0,
+    "y": 11853.0,
+    "width": 250.0,
+    "height": 257.0
+  },
+  "c-snowflake-variant-semi-structured": {
+    "x": 370.0,
+    "y": 12210.0,
+    "width": 250.0,
+    "height": 282.0
+  },
+  "c-snowflake-performance-optimization": {
+    "x": 0.0,
+    "y": 9905.5,
+    "width": 250.0,
+    "height": 282.0
+  },
+  "c-snowflake-clustering-keys": {
+    "x": 370.0,
+    "y": 9943.0,
+    "width": 250.0,
+    "height": 232.0
+  },
+  "c-snowflake-search-optimization": {
+    "x": 370.0,
+    "y": 10275.0,
+    "width": 250.0,
+    "height": 257.0
+  },
+  "c-snowflake-caching-strategy": {
+    "x": 370.0,
+    "y": 9561.0,
+    "width": 250.0,
+    "height": 282.0
+  },
+  "c-snowflake-security-governance": {
+    "x": 0.0,
+    "y": 13584.5,
+    "width": 250.0,
+    "height": 282.0
+  },
+  "c-snowflake-rbac": {
+    "x": 370.0,
+    "y": 14120.0,
+    "width": 250.0,
+    "height": 282.0
+  },
+  "c-snowflake-masking-row-access": {
+    "x": 370.0,
+    "y": 13381.0,
+    "width": 250.0,
+    "height": 257.0
+  },
+  "c-snowflake-network-controls": {
+    "x": 370.0,
+    "y": 13738.0,
+    "width": 250.0,
+    "height": 282.0
+  },
+  "c-snowflake-auditing": {
+    "x": 370.0,
+    "y": 13049.0,
+    "width": 250.0,
+    "height": 232.0
+  },
+  "c-snowflake-sharing-collaboration": {
+    "x": 0.0,
+    "y": 14946.5,
+    "width": 250.0,
+    "height": 307.0
+  },
+  "c-snowflake-secure-data-sharing": {
+    "x": 370.0,
+    "y": 15341.0,
+    "width": 250.0,
+    "height": 257.0
+  },
+  "c-snowflake-marketplace": {
+    "x": 370.0,
+    "y": 14602.0,
+    "width": 250.0,
+    "height": 257.0
+  },
+  "c-snowflake-replication-failover": {
+    "x": 370.0,
+    "y": 14959.0,
+    "width": 250.0,
+    "height": 282.0
+  },
+  "c-snowflake-data-engineering": {
+    "x": 0.0,
+    "y": 3400.5,
+    "width": 250.0,
+    "height": 257.0
+  },
+  "c-snowflake-streams": {
+    "x": 370.0,
+    "y": 3081.0,
+    "width": 250.0,
+    "height": 232.0
+  },
+  "c-snowflake-tasks": {
+    "x": 370.0,
+    "y": 3413.0,
+    "width": 250.0,
+    "height": 207.0
+  },
+  "c-snowflake-time-travel-zero-copy": {
+    "x": 370.0,
+    "y": 3720.0,
+    "width": 250.0,
+    "height": 257.0
+  },
+  "c-snowflake-programmability": {
+    "x": 0.0,
+    "y": 11076.5,
+    "width": 250.0,
+    "height": 232.0
+  },
+  "c-snowflake-snowpark": {
+    "x": 370.0,
+    "y": 11064.0,
+    "width": 250.0,
+    "height": 257.0
+  },
+  "c-snowflake-udf-procedures": {
+    "x": 370.0,
+    "y": 11421.0,
+    "width": 250.0,
+    "height": 232.0
+  },
+  "c-snowflake-native-apps": {
+    "x": 370.0,
+    "y": 10732.0,
+    "width": 250.0,
+    "height": 232.0
+  },
+  "c-snowflake-cost-management": {
+    "x": 0.0,
+    "y": 2317.0,
+    "width": 250.0,
+    "height": 257.0
+  },
+  "c-snowflake-auto-suspend-resume": {
+    "x": 370.0,
+    "y": 2010.0,
+    "width": 250.0,
+    "height": 232.0
+  },
+  "c-snowflake-resource-monitors": {
+    "x": 370.0,
+    "y": 2342.0,
+    "width": 250.0,
+    "height": 207.0
+  },
+  "c-snowflake-workload-isolation": {
+    "x": 370.0,
+    "y": 2649.0,
+    "width": 250.0,
+    "height": 232.0
+  },
+  "c-snowflake-ops-observability": {
+    "x": 0.0,
+    "y": 8131.0,
+    "width": 250.0,
+    "height": 307.0
+  },
+  "c-snowflake-account-usage-views": {
+    "x": 370.0,
+    "y": 7965.0,
+    "width": 250.0,
+    "height": 257.0
+  },
+  "c-snowflake-alerting-incident-response": {
+    "x": 370.0,
+    "y": 8322.0,
+    "width": 250.0,
+    "height": 282.0
+  }
+}

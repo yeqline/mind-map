@@ -72,10 +72,6 @@ venv.bak/
 ehthumbs.db
 Thumbs.db
 
-# Project-specific generated files
-*.excalidraw
-*.positions.json
-
 # Temporary files
 *.tmp
 *.temp
